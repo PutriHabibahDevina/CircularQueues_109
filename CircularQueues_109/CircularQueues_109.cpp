@@ -94,5 +94,9 @@ int main() {
 	Queues q;
 	char ch;
 
-	
+	while (true) {
+		
+	}
+
+	return 0;
 }
